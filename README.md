@@ -7,6 +7,8 @@
 <h2>Software Development Projects</h2>
 
 - [CodeViz Code Visualization Project](http://bitcodeviz.herokuapp.com/)
+- [Apache Spark Query Dataset](https://github.com/babartanveer605/Apache-Spark-Query-Dataset)
+
 
 <h2> 🤳 Connect with me:</h2>
 
