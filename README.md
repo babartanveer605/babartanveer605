@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Lab](https://github.com/babartanveer605/Algorithms-Practice)
+- [Active Directory Lab](https://github.com/babartanveer605/Active-Directory-Lab)
 
 <h2>Software Development Projects</h2>
 
